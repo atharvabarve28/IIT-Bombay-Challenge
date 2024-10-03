@@ -1,0 +1,81 @@
+{
+  "supplies": [
+    {
+      "chemical_name": "Ammonium Persulfate",
+      "vendor": "LG Chem",
+      "density": 3525.92,
+      "viscosity": 60.63,
+      "packaging": "Bag",
+      "pack_size": 100,
+      "unit": "kg",
+      "quantity": 6495.18,
+      "id": "7631"
+    },
+    {
+      "chemical_name": "Caustic Potash",
+      "vendor": "Formosa",
+      "density": 3172.15,
+      "viscosity": 48.22,
+      "packaging": "Bag",
+      "pack_size": 100,
+      "unit": "kg",
+      "quantity": 8751.9,
+      "id": "f62d"
+    },
+    {
+      "chemical_name": "Dimethylaminopropylamino",
+      "vendor": "LG Chem",
+      "density": 8435.37,
+      "viscosity": 12.62,
+      "packaging": "Barrel",
+      "pack_size": 75,
+      "unit": "L",
+      "quantity": 5964.61,
+      "id": "7436"
+    },
+    {
+      "chemical_name": "Mono Ammonium Phosphate",
+      "vendor": "Sinopec",
+      "density": 1597.65,
+      "viscosity": 76.51,
+      "packaging": "Bag",
+      "pack_size": 105,
+      "unit": "kg",
+      "quantity": 8183.73,
+      "id": "4d52"
+    },
+    {
+      "chemical_name": "Ferric Nitrate",
+      "vendor": "DowDuPont",
+      "density": 364.04,
+      "viscosity": 14.9,
+      "packaging": "Bag",
+      "pack_size": 105,
+      "unit": "kg",
+      "quantity": 4154.33,
+      "id": "7e43"
+    },
+    {
+      "chemical_name": "n-Pentane",
+      "vendor": "Sinopec",
+      "density": 4535.26,
+      "viscosity": 66.76,
+      "packaging": null,
+      "pack_size": null,
+      "unit": "t",
+      "quantity": 6272.34,
+      "id": "874e"
+    },
+    {
+      "chemical_name": "Glycol Ether PM",
+      "vendor": "LG Chem",
+      "density": 6495.18,
+      "viscosity": 72.12,
+      "packaging": "Bag",
+      "pack_size": 250,
+      "unit": "kg",
+      "quantity": 8749.54,
+      "id": "d458"
+    }
+  ]
+}

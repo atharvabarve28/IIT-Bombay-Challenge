@@ -1,0 +1,87 @@
+* {
+  font-family: Consolas !important;
+}
+
+.table {
+  border: 2.5px solid #e9e9e3;
+}
+
+.table th:nth-child(3),
+.table td:nth-child(3) {
+  border-right: 2px solid #e9e9e3;
+}
+
+body {
+  user-select: none;
+}
+
+.custom-spinner {
+  color: #545454;
+}
+
+.sort-icon {
+  color: #aaaaa5;
+  cursor: pointer;
+}
+
+.sort-icon.active {
+  color: #0032c8;
+  cursor: pointer;
+}
+
+.toast-center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1050;
+}
+
+.custom-checkbox {
+  position: relative;
+  cursor: pointer;
+}
+
+.custom-checkbox input[type="checkbox"] {
+  display: none;
+}
+
+.custom-checkbox i {
+  font-size: 1.5rem;
+  color: #aaaaa5;
+}
+
+.custom-checkbox input[type="checkbox"]:checked + i {
+  color: #0032c8;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+@media (max-width: 768px) {
+  .table th:nth-child(n + 3),
+  .table td:nth-child(n + 3) {
+    display: none;
+  }
+
+  .table th:nth-child(2),
+  .table td:nth-child(2) {
+    display: table-cell;
+  }
+
+  .table tr.selected {
+    background-color: #f8f9fa;
+  }
+}
+
+@media (min-width: 769px) {
+  .table th,
+  .table td {
+    display: table-cell;
+  }
+}
+
+.custom-thead {
+  background-color: #fafaf5 !important;
+}
