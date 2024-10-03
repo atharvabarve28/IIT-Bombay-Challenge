@@ -1,9 +1,6 @@
 //Due to static website hosting, the API URL is not working. So, I have used a local JSON file to fetch data.
 
 // const API = "http://localhost:3000/supplies";
-alert(
-  "Due to static website hosting, the API URL is not working for Modifications. So, I have used a local JSON file to fetch data."
-);
 
 const API = "data/data.json";
 
